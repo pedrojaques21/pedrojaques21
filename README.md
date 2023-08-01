@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**pedrojaques21/pedrojaques21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Pedro Jaques. 😄
 
-Here are some ideas to get you started:
+Currently I'm focused on Data & AI 🤖 related work, working as a Data & AI Application Engineer at Uniparter Tech working with data transformation and visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm available through [LinkedIn](www.linkedin.com/in/pedro-jaques) or throught my [Email](pedronjaques1@gmail.com).
+
+## Curiosities
+
+- 🔭 I’m currently working on improving my skills in the Data  & AI field 
+- 🌱 I’m currently learning AI Engineering on Azure
+- 💬 Ask me about anything and I will try to help you
+- ⚡ Fun fact: I like fishing! 🎣
